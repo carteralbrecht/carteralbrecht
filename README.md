@@ -1,9 +1,8 @@
 ### What's up, I'm Carter 😎
 
-📚 I’m currently an undergraduate student at the University of Central Florida
-
-### Languages and Tools:
-
+[<code>
+<img alt="c" width="26px" src="https://img.icons8.com/color/144/000000/c-programming.png">
+</code>](https://en.wikipedia.org/wiki/C_programming_language)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
